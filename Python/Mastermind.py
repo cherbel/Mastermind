@@ -8,7 +8,7 @@ for x in range(4):
     cpChoices.append(random.randint(1, 6))
 
 print("The Computer has chosen 4 colors.")
-print("The colors are labeled by the numebers as followed")
+print("The colors are labeled by the numbers as followed")
 print("  1) Red")
 print("  2) Blue")
 print("  3) Yellow")
